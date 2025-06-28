@@ -3,7 +3,7 @@
 # DeskBuddy
 
 ## Descriere
-DeskBuddy este o aplicatie de monitorizare „desk companion” pentru Raspberry Pi 5, care detecteaza postura, pauze, hidratare si distrageri folosind un modul Hailo-8
+DeskBuddy este o aplicatie de monitorizare „desk companion” pentru Raspberry Pi 5 pentru formarea obiceiurilor bune precum luarea de pauze, hidratarea si atentionarea pentru distrageri folosind un modul Hailo-8
 
 ## Cerinte
 - Raspberry Pi 5 cu Raspberry Pi OS (64-bit)  
