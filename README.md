@@ -1,3 +1,5 @@
+# https://github.com/TomusNicolas/DeskBuddy
+
 # DeskBuddy
 
 ## Descriere
@@ -33,10 +35,6 @@ cd DeskBuddy
 # (optional cu Conda)
 conda create -n deskbuddy python=3.11
 conda activate deskbuddy
-pip install -r requirements.txt
 
-# 6. Copiaza modelul
-cp /cale/catre/yolov11s_h8l.hef models/
-
-# 7. Ruleaza aplicatia
+# 6. Ruleaza aplicatia
 python main.py
